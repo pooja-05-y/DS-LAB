@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1765249907 source:c:\users\bmscecse\desktop\1bf24cs217\codeblocks\linkedlist\create,traverse,display\bst(1).c
+	<stdio.h>
+	<stdlib.h>
+

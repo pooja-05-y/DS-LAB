@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1765854850 source:c:\users\bmscecse\desktop\1bf24cs217\codeblocks\graphs\bfs.c
+	<stdio.h>
+
+1765855835 source:c:\users\bmscecse\desktop\1bf24cs217\codeblocks\graphs\dfs.c
+	<stdio.h>
+
+1765857542 source:c:\users\bmscecse\desktop\1bf24cs217\codeblocks\graphs\dfs(3).c
+	<stdio.h>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1764648947 source:c:\users\bmscecse\desktop\1bf24cs217\codeblocks\linkedlist\linked list\doublylink.c
+	<stdio.h>
+	<stdlib.h>
+
+1764649545 source:c:\users\bmscecse\desktop\1bf24cs217\codeblocks\linkedlist\linked list\doubly linked.c
+	<stdio.h>
+	<stdlib.h>
+
